@@ -5,9 +5,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@sarathg.alp](https://medium.com/@sarathg.alp)
 
-- 💬 Ask me about **shell scripting, security, enumeration**
-
-- 📫 How to reach me **sarathkarakkad1@gmail.com**
+- 📫 reach me @ **sarathkarakkad1@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
