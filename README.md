@@ -17,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [EC-CEH All you need to know](https://medium.com/@sarathg/ec-ceh-all-you-need-to-know-58347e173661?source=rss-2279df1f5e2------2)
+- [Demystifying VPN](https://medium.com/@sarathg/demystifying-vpn-1c9c9ff1a52e?source=rss-2279df1f5e2------2)
+- [CIA Triad](https://medium.com/@sarathg/cia-triad-a66df883226?source=rss-2279df1f5e2------2)
+- [Hexadecimal & Decimal Number Systems](https://medium.com/@sarathg/hexadecimal-decimal-number-systems-53b16f001a2e?source=rss-2279df1f5e2------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
