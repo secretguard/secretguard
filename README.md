@@ -1,5 +1,5 @@
-<h1 align="center">Hello I'm Sarath</h1>
-<h3 align="center">A cyber security enthusiast from India.</h3>
+<h1 align="center">Hello I'm Sarath 👨‍💻</h1>
+<h3 align="center">Learn ⮕ Practice ⮕ Repeat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=secretguard&label=Profile%20views&color=008ae6&style=flat-square" alt="secretguard" /> </p>
 
@@ -7,20 +7,16 @@
 
 - 🔭 I’m currently working on [Web Recon](https://github.com/secretguard/web-recon)
 
-- 🌱 I’m currently learning **Exploit Development**
+- 🌱 I’m currently learning for **OSCP**
 
 - 📝 I regulary write articles on [https://sarathg.medium.com/](https://sarathg.medium.com/)
 
 - 💬 Ask me about **Shell Scripting, Ethical Hacking, Penetration Testing**
 
-- 📫 How to reach me **sarathkarakkad1@gmail.com**
+- 📫 Reach me at **sarathkarakkad1@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [EC-CEH All you need to know](https://medium.com/@sarathg/ec-ceh-all-you-need-to-know-58347e173661?source=rss-2279df1f5e2------2)
-- [Demystifying VPN](https://medium.com/@sarathg/demystifying-vpn-1c9c9ff1a52e?source=rss-2279df1f5e2------2)
-- [CIA Triad](https://medium.com/@sarathg/cia-triad-a66df883226?source=rss-2279df1f5e2------2)
-- [Hexadecimal & Decimal Number Systems](https://medium.com/@sarathg/hexadecimal-decimal-number-systems-53b16f001a2e?source=rss-2279df1f5e2------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
