@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Web Recon](https://github.com/secretguard/web-recon)
 
-- 🌱 I’m currently learning for **CPENT and LPT**
+- 🌱 I’m currently learning for **OSCP**
 
 - 📝 I regulary write articles on [https://sarathg.medium.com/](https://sarathg.medium.com/)
 
