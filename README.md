@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=secretguard&label=Profile%20views&color=008ae6&style=flat-square" alt="secretguard" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sarathcybersec" target="blank"><img src="[https://img.shields.io/twitter/follow/sarathg_alp?logo=twitter&style=for-the-badge](https://img.shields.io/twitter/follow/sarathcybersec?logo=twitter&style=for-the-badge)" alt="sarathg_alp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sarathcybersec" target="blank"><img src="https://img.shields.io/twitter/follow/sarathcybersec?logo=twitter&style=for-the-badge" alt="sarathg_alp" /></a> </p>
 
 - 🔭 I’m currently working on [Web Recon](https://github.com/secretguard/web-recon)
 
