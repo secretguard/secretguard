@@ -2,6 +2,7 @@
 <h3 align="center">Learn ⮕ Practice ⮕ Repeat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=secretguard&label=Profile%20views&color=008ae6&style=flat-square" alt="secretguard" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="secretguard" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sarathcybersec" target="blank"><img src="https://img.shields.io/twitter/follow/sarathcybersec?logo=twitter&style=for-the-badge" alt="sarathg_alp" /></a> </p>
 
