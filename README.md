@@ -2,7 +2,6 @@
 <h3 align="center">Learn ⮕ Practice ⮕ Repeat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=secretguard&label=Profile%20views&color=008ae6&style=flat-square" alt="secretguard" /> </p>
-<p align="left"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="secretguard" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sarathcybersec" target="blank"><img src="https://img.shields.io/twitter/follow/sarathcybersec?logo=twitter&style=for-the-badge" alt="sarathg_alp" /></a> </p>
 
@@ -24,6 +23,7 @@
 - [Hexadecimal &amp; Decimal Number Systems](https://sarathg.medium.com/hexadecimal-decimal-number-systems-53b16f001a2e?source=rss-2279df1f5e2------2)
 <!-- BLOG-POST-LIST:END -->
 
+<p align="left"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="secretguard" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sarathcybersec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sarathg_alp" height="30" width="40" /></a>
